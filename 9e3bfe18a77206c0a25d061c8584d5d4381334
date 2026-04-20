@@ -1,0 +1,13 @@
+0000000000000000000000000000000000000000 42933b521ee2bfb5698c6a0d77a37017ac09b754 Atharva Khandekar <atharvakhandekar@Atharvas-MacBook-Air-2.local> 1775762996 +0530	commit (initial): Return Intelligence System
+42933b521ee2bfb5698c6a0d77a37017ac09b754 0000000000000000000000000000000000000000 Atharva Khandekar <atharvakhandekar@Atharvas-MacBook-Air-2.local> 1775763009 +0530	Branch: renamed refs/heads/main to refs/heads/main
+42933b521ee2bfb5698c6a0d77a37017ac09b754 42933b521ee2bfb5698c6a0d77a37017ac09b754 Atharva Khandekar <atharvakhandekar@Atharvas-MacBook-Air-2.local> 1775763009 +0530	Branch: renamed refs/heads/main to refs/heads/main
+42933b521ee2bfb5698c6a0d77a37017ac09b754 baf34056fc11e21f23680f78e164261216e2f43e Atharva Khandekar <atharvakhandekar@Atharvas-MacBook-Air-2.local> 1775766255 +0530	commit: add dockerfile
+baf34056fc11e21f23680f78e164261216e2f43e 379b9fde4050df7d3688d364cd07919191220d3d Atharva Khandekar <atharvakhandekar@Atharvas-MacBook-Air-2.local> 1775766580 +0530	commit: fix docker image
+379b9fde4050df7d3688d364cd07919191220d3d 6cd6463ccd50eb2d029223e187a3ed41ef25cf54 Atharva Khandekar <atharvakhandekar@Atharvas-MacBook-Air-2.local> 1775767286 +0530	commit: fixed pom.xml error
+6cd6463ccd50eb2d029223e187a3ed41ef25cf54 96fc3f878dc7edb13e189d48aded0870f7289206 Atharva Khandekar <atharvakhandekar@Atharvas-MacBook-Air-2.local> 1775768283 +0530	commit: fix docker jar issue
+96fc3f878dc7edb13e189d48aded0870f7289206 8f1df409528e6c29771e4ba95af7ce5dc304acbc Atharva Khandekar <atharvakhandekar@Atharvas-MacBook-Air-2.local> 1775787648 +0530	commit: final pom fix
+8f1df409528e6c29771e4ba95af7ce5dc304acbc 0000000000000000000000000000000000000000 Atharva Khandekar <atharvakhandekar@Atharvas-MacBook-Air-2.local> 1775792558 +0530	Branch: renamed refs/heads/main to refs/heads/main
+8f1df409528e6c29771e4ba95af7ce5dc304acbc 8f1df409528e6c29771e4ba95af7ce5dc304acbc Atharva Khandekar <atharvakhandekar@Atharvas-MacBook-Air-2.local> 1775792558 +0530	Branch: renamed refs/heads/main to refs/heads/main
+8f1df409528e6c29771e4ba95af7ce5dc304acbc f777fb545a743b856f6d99cb67aed233c13902d4 Atharva Khandekar <atharvakhandekar@Atharvas-MacBook-Air-2.local> 1775793828 +0530	commit: fix database config
+f777fb545a743b856f6d99cb67aed233c13902d4 d96bedb97ed9655a104d5a53b330d5263d416836 Atharva Khandekar <atharvakhandekar@Atharvas-MacBook-Air-2.local> 1776280097 +0530	commit: fix postgres issue
+d96bedb97ed9655a104d5a53b330d5263d416836 41ac9d4584f5e7f24168479ad4fcf8663ab9113d Atharva Khandekar <atharvakhandekar@Atharvas-MacBook-Air-2.local> 1776280218 +0530	commit: force recreate postgres table
